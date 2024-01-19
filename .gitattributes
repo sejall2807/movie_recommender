@@ -1,4 +1,2 @@
-dataset/tmdb_5000_credits.csv filter=lfs diff=lfs merge=lfs -text
-dataset/tmdb_5000_movies.csv filter=lfs diff=lfs merge=lfs -text
-recommend_list.pickle filter=lfs diff=lfs merge=lfs -text
 dataset/* filter=lfs diff=lfs merge=lfs -text
+recommend_list.pickle filter=lfs diff=lfs merge=lfs -text
